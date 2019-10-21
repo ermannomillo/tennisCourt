@@ -159,7 +159,7 @@ nbconvert-reportlab==0.2
 nbformat==4.4.0
 netCDF4==1.4.2
 networkx==2.3rc1.dev20181020104102
-nltk==3.3
+nltk==3.4.5
 numba==0.40.0
 numcodecs==0.5.5
 numdifftools==0.9.20
