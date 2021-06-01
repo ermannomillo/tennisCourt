@@ -310,7 +310,7 @@ twitter==1.17.1
 typed-ast==1.1.0
 tzlocal==1.5.1
 uncertainties==3.0.3
-urllib3==1.24
+urllib3==1.26.5
 vega==2.0rc2
 vega-datasets==0.5.0
 ViTables==3.0.0
