@@ -96,7 +96,7 @@ ipykernel==5.1.0
 ipyleaflet==0.9.1
 ipympl==0.2.1
 ipyparallel==6.2.3
-ipython==7.1.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipython-sql==0.3.9
 ipywidgets==7.4.2
