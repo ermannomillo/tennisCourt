@@ -252,7 +252,7 @@ QtPy==1.5.2
 readme-renderer==24.0
 redis==2.10.6
 regex==2018.8.29
-reportlab==3.5.9
+reportlab==3.5.55
 requests==2.20.0
 requests-oauthlib==1.0.0
 requests-toolbelt==0.8.0
